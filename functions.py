@@ -4,7 +4,7 @@ class Functions:
         pass
 
     def plus(self, a, b):
-        return a+b
+        return a+b+1
 
     def minus(self, a, b):
         return a-b
